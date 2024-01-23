@@ -1,2 +1,2 @@
 
-print("John")
+print("Hello world !")
